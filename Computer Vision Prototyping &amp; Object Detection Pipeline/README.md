@@ -55,7 +55,7 @@ lab03/
 │   └── captures/sample_frame.jpg   # saved frame with FPS overlay
 └── task8/
     ├── surveillance_logger.py
-    ├── alerts/                     # timestamped snapshots (YYYYMMDD_HHMMSS.jpg)
+    ├── alerts/                     # 14 timestamped snapshots (YYYYMMDD_HHMMSS.jpg)
     ├── events.log                  # CSV log generated during the run
     └── indicator_demo.jpg          # example of the on-stream "EVENT LOGGED" indicator
 ```
