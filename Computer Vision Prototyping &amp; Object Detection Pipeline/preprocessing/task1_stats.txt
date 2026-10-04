@@ -1,0 +1,10 @@
+No --image given; generated synthetic scene: synthetic_traffic.jpg
+
+=== Pixel Tensor Statistics ===
+Original                     shape=(1080, 1920, 3)  dtype=uint8    min=0.0000   max=255.0000 mean=96.5916  std=54.5041
+Letterboxed (uint8)          shape=(640, 640, 3)    dtype=uint8    min=4.0000   max=255.0000 mean=104.2077 std=41.4947
+Normalized (float32)         shape=(640, 640, 3)    dtype=float32  min=0.0157   max=1.0000   mean=0.4087   std=0.1627
+
+Letterbox scale = 0.3333, padding (left, top) = (0, 140)
+Check: range within [0.0, 1.0]? True
+Figure saved to: task1_output.png

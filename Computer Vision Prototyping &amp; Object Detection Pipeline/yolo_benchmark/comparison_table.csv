@@ -1,0 +1,3 @@
+Model,Params (M),Latency mean (ms),Latency std (ms),Latency min (ms),FPS (1/mean),Detections,Classes found,Class counts,Avg confidence
+yolov8n,3.2,107.3,8.5,98.7,9.32,6,3,"person:4, bus:1, stop sign:1",0.656
+yolov8m,25.9,645.5,63.2,561.3,1.55,5,2,"person:4, bus:1",0.892
